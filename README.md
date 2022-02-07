@@ -1,10 +1,30 @@
-# Template Assignment
+# Compute This
 
 ## Problem Statement
 
-## Input Description
+Your program should calculate the value of the following formulae and present the answers as shown.
 
-## Sample Input/Output
+```
+d1 = 3πsin(187°) + |cos(122°)|
+
+d2 = (14.72^3.801) + ln(72)
+```
+
+tips:
+
+- sin and cos have to be in **radians**.
+- ^ means exponents in this case, I just can't type superscripts in this.
+- ln means log base e.
+- your code should do the math, but you may want to check your answers with a calculator.
+
+## Sample Output
+
+```
+d1 = ?
+d2 = ?
+```
+
+Where the `?` are the values of the two exceptions.
 
 ## Submission
 
